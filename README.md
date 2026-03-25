@@ -1,2 +1,3 @@
-# integrated-trading-platform
-Description: Unified Web3 Trading Platform (TradeHax AI + TradingAgents)
+# Integrated Trading Platform
+
+This project is an integrated trading platform that includes various components for seamless trading operations.
